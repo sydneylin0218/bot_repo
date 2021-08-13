@@ -1,6 +1,0 @@
-{
-    "username": "108206008@g.nccu.edu.tw",
-    "apikey": "fSykVY&QrnJSEO2%o&$_5OOsbKAw$k$",
-    "loki_key": " ",
-    "discord_token" : " "
-}
